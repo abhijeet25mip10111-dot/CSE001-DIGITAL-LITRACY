@@ -22,7 +22,7 @@ Using coding and collaboration platforms
 Understanding cyber safety and awareness
 ## 🎨 Task 1 – Digital Literacy Infographic
 
-## 📎 Infographic File: Digital-litracy/Task 1 presentation/digital-literacy-inforgraphic.png
+## 📎 Infographic File: "Digital-literacy/task1_presentation/digital-literacy-infographic.png"
 This infographic presents the concept of digital literacy, including key tools, safe online practices, and communication skills useful for students.
 
 image_path = "Digital-literacy/task1_presentation/digital-literacy-infographic.png"
