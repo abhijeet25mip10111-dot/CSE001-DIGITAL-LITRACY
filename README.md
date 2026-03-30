@@ -23,7 +23,7 @@ Understanding cyber safety and awareness
 ## 🎨 Task 1 – Digital Literacy Infographic
 
 ## 📎 Infographic File: 
-- ![Digital Literacy Infographic](Digital-litracy/Task 1 presentation/digital-literacy-inforgraphic.png)
+-img = Image.open(r"Digital-litracy/Task 1 presentation/digital-literacy-inforgraphic.png")
 This infographic presents the concept of digital literacy, including key tools, safe online practices, and communication skills useful for students.
 
 ## 🌐 Task 2 – Digital Portfolio
