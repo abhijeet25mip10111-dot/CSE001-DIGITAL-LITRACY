@@ -28,8 +28,8 @@ This infographic presents the concept of digital literacy, including key tools, 
 ## 🌐 Task 2 – Digital Portfolio
 
 - **💻 GitHub:** https://github.com/abhijeet25mip10111-dot/CSE001-DIGITAL-LITRACY.git
-- **🔗 LinkedIn:** linkedin.com/in/abhijeet-kumar-3490833bb
-- **📊 Kaggle: https:**//www.kaggle.com/abhi25mip10111
+- **🔗 LinkedIn:** https://www.linkedin.com/in/abhijeet-kumar-3490833bb/?skipRedirect=true
+- **📊 Kaggle:** https://www.kaggle.com/abhi25mip10111
 These platforms demonstrate my professional online presence and technical engagement.
 
 ## 🛠️ Task 3 – Platforms
@@ -59,6 +59,36 @@ This section focuses on professional communication and responsible social media 
 - **✅ Prevention Checklist for Students**
 This task highlights common cyber threats and preventive measures for safe digital practices.
 
-📂 Project Structure
+## 📁 Repository Structure
+
+```
+
+digital-literacy-project/
+│
+├── README.md
+├── report/
+├── task-1-presentation/
+├── task-2-portfolio/
+├── task-3-platforms/
+├── task-4-email-etiquette/
+└── task-5-cybercrime/
+
+```
+
+---
+
+## 📎 Submission
+This repository is submitted as part of the Digital Literacy Project through the VITyarthi portal.
+
+---
+
+## 🙌 Acknowledgement
+I would like to thank my faculty and the course for providing me with this opportunity to learn and enhance my digital skills.
+
+```
+
+---
+
+
 
 
