@@ -24,7 +24,8 @@ Understanding cyber safety and awareness
 
 ## 📎 Infographic File: 
 This infographic presents the concept of digital literacy, including key tools, safe online practices, and communication skills useful for students.
-image_path = r"Digital-litracy/Task 1 presentation/digital-literacy-inforgraphic.png"
+
+image_path = "Digital-literacy/task1_presentation/digital-literacy-infographic.png"
 
 ## 🌐 Task 2 – Digital Portfolio
 
