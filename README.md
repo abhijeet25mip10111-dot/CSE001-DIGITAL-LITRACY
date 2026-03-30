@@ -22,7 +22,7 @@ Using coding and collaboration platforms
 Understanding cyber safety and awareness
 ## 🎨 Task 1 – Digital Literacy Infographic
 
-## 📎 Infographic File: View Here
+## 📎 Infographic File: 
 This infographic presents the concept of digital literacy, including key tools, safe online practices, and communication skills useful for students.
 
 ## 🌐 Task 2 – Digital Portfolio
@@ -40,10 +40,8 @@ These platforms demonstrate my professional online presence and technical engage
 
 - ✔️ Google Sheet Responses
 
-- **📎 Google Form Link:** docs.google.com/forms/d/1qCO0Oh_Y4NpkvsL_06ywrJ-o-M7jfIWC83nkNQzkv_U/edit
-
-- **📎 Google Sheet Link:** docs.google.com/spreadsheets/d/1xtlky6XosVNNoG5gH-nfRth5cFZPzMcb5BblC5qgWeg/edit?resourcekey=&gid=1325901734#gid=1325901734
-
+- **📎 Google Form Link:** https://docs.google.com/forms/d/1j7vTZpkbKt_pheUsKKo6bf6CTV1z74dWAlvoZEKQaH4/edit
+  
 These tools showcase my ability to work with coding platforms and collaborative tools.
 
 ## 📧 Task 4 – Email Etiquette
